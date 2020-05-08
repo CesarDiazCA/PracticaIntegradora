@@ -9,7 +9,7 @@ package jugadores;
  *
  * @author Cesar
  */
-public abstract class JugadorCampo extends Jugador {
+public abstract class JugadorCampo extends Jugador { //EL PERRO DE MANU
 
     /**
      * Pases del jugador
